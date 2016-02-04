@@ -4,7 +4,7 @@ Elasticsearch dockerized image automation cluster-ready
 This image is ready for Ansible deploy and Weave network
 
 Docker-compose file to run:
-Replace 'zero' to incremental number of machine(in this example 3 hosts)
+
 ```
 elasticsearch:
   image: ybalt/elasticsearch
